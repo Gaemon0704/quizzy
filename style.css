@@ -28,6 +28,7 @@ body {
   font-size: 40px;
   color: #fff;
   margin-bottom: 50px;
+  text-decoration: none;
 }
 label {
   display: block;
